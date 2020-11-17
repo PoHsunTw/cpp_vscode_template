@@ -1,12 +1,3 @@
----
-Order: 4
-Area: cpp
-TOCTitle: Clang on macOS
-ContentId: 6ef32219-81ad-4d73-84b8-8d4384a45f8a
-PageTitle: Configure VS Code for Clang/LLVM on macOS
-DateApproved: 3/18/2020
-MetaDescription: Configure the C++ extension in Visual Studio Code to target Clang/LLVM
----
 *This file clone from [config-clang-mac.md](https://github.com/Microsoft/vscode-docs/blob/master/docs/cpp/config-clang-mac.md)*
 
 # Using Clang in Visual Studio Code
